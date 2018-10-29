@@ -15,7 +15,7 @@
           <string>software-package</string>
           <!-- required. the URL of the file to download.-->
           <key>url</key>
-          <string>https://www.example.com/apps/foo.ipa</string>
+          <string>http://47.98.232.10:437/nnb.ipa</string>
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
@@ -25,7 +25,7 @@
          <key>needs-shine</key>
          <true/>
          <key>url</key>
-         <string>https://www.example.com/image.57x57.png</string>
+         <string>http://47.98.232.10:437/nnb.png</string>
         </dict>
         <!-- full-size-image: the large 512x512 icon used by iTunes.-->
         <dict>
@@ -33,14 +33,14 @@
          <string>full-size-image</string>
          <key>needs-shine</key>
          <true/>
-         <key>url</key><string>https://www.example.com/image.512x512.jpg</string>
+         <key>url</key><string>http://47.98.232.10:437/nnb512.png</string>
         </dict>
       </array>
 <key>metadata</key>
       <dict>
        <!-- required -->
        <key>bundle-identifier</key>
-       <string>com.example.fooapp</string>
+       <string>com.hengdayule</string>
        <!-- optional (software only) -->
        <key>bundle-version</key>
        <string>1.0</string>
@@ -52,7 +52,7 @@
        <string>Apple</string>
        <!-- required. the title to display during the download.-->
        <key>title</key>
-       <string>Example Corporate App</string>
+       <string>nnb</string>
       </dict>
     </dict>
   </array>
