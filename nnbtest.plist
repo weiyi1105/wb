@@ -40,7 +40,7 @@
       <dict>
        <!-- required -->
        <key>bundle-identifier</key>
-       <string>com.guojin.dcx</string>
+       <string>com.guojin.nnb</string>
        <!-- optional (software only) -->
        <key>bundle-version</key>
        <string>1.0</string>
@@ -52,7 +52,7 @@
        <string>Apple</string>
        <!-- required. the title to display during the download.-->
        <key>title</key>
-       <string>dcx</string>
+       <string>nnb</string>
       </dict>
     </dict>
   </array>
