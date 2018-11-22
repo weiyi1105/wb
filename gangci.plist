@@ -52,7 +52,7 @@
        <string>Apple</string>
        <!-- required. the title to display during the download.-->
        <key>title</key>
-       <string>nnb</string>
+       <string>gangci</string>
       </dict>
     </dict>
   </array>
