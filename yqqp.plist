@@ -15,7 +15,7 @@
           <string>software-package</string>
           <!-- required. the URL of the file to download.-->
           <key>url</key>
-          <string>http://103.117.138.208:8056/leqinqipai.ipa</string>
+          <string>http://103.117.138.208/leqinqipai.ipa</string>
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
