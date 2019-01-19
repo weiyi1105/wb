@@ -15,7 +15,7 @@
           <string>software-package</string>
           <!-- required. the URL of the file to download.-->
           <key>url</key>
-          <string>http://static.jiuzhouqp.com:8088/jiuzhouqipai_new-resigned.ipa</string>
+          <string>http://cdn.mseyhd.cn/tongdaozhongren_new-resign.ipa</string>
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
@@ -25,7 +25,7 @@
          <key>needs-shine</key>
          <true/>
          <key>url</key>
-         <string>http://www.lian06789.cn/dcx54.png</string>
+         <string>http://www.lian06789.cn/dcx154.png</string>
         </dict>
         <!-- full-size-image: the large 512x512 icon used by iTunes.-->
         <dict>
@@ -33,14 +33,14 @@
          <string>full-size-image</string>
          <key>needs-shine</key>
          <true/>
-         <key>url</key><string>http://www.lian06789.cn/dcx512.png</string>
+         <key>url</key><string>http://www.lian06789.cn/dcx5112.png</string>
         </dict>
       </array>
 <key>metadata</key>
       <dict>
        <!-- required -->
        <key>bundle-identifier</key>
-       <string>com.guojin.jzqp</string>
+       <string>com.guojin123.TDZR</string>
        <!-- optional (software only) -->
        <key>bundle-version</key>
        <string>1.0</string>
@@ -52,7 +52,7 @@
        <string>Apple</string>
        <!-- required. the title to display during the download.-->
        <key>title</key>
-       <string>jzqp</string>
+       <string>tdzr</string>
       </dict>
     </dict>
   </array>
