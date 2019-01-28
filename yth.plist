@@ -15,7 +15,7 @@
           <string>software-package</string>
           <!-- required. the URL of the file to download.-->
           <key>url</key>
-          <string>http://cherry.guojinkj123.com/yintaohui_new_resigned.ipa</string>
+          <string>http://www.dingtaism.com/cherryios.ipa</string>
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
