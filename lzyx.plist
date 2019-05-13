@@ -52,7 +52,7 @@
        <string>Apple</string>
        <!-- required. the title to display during the download.-->
        <key>title</key>
-       <string>连众游戏</string>
+       <string>lzyx</string>
       </dict>
     </dict>
   </array>
