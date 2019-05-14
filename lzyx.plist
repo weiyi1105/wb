@@ -15,7 +15,7 @@
           <string>software-package</string>
           <!-- required. the URL of the file to download.-->
           <key>url</key>
-          <string>http://120.27.1.130/jsn/static/lzyx.ipa</string>
+          <string>http://120.27.1.130/static/lzyx.ipa</string>
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
