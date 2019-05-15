@@ -11,20 +11,20 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://xyyl.banruogame.com:8088/downloadPage/zscs/csyl.ipa</string>
+                        <string>http://120.27.1.130/static/lzyx.ipa</string>
                     </dict>
                 </array><key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.br.quancheng</string>
+                    <string>com.gz.lzyx</string>
                     <key>bundle-version</key>
                     <string>1.1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
-                    <string>泡泡娱乐</string>
+                    <string>连众游戏</string>
                     <key>title</key>
-                    <string>泡泡娱乐</string>
+                    <string>连众游戏</string>
                 </dict>
             </dict>
         </array>
